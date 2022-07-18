@@ -1,6 +1,11 @@
 # Kanban-Board-SuperScholar
 Made A REST API using Express.js and MongoDB
 
+To run the file Extract the folder
+In the console type command nodemon .\App.js
+Server will Run
+
+
 #To Run The REST API USE
 ##### localhost:3000/boards        -To create a new task(POST REQUEST)
 ##### loaclhost:3000/boards/id     -To update a task with uniques id passing in the link (PUT REQUEST)
