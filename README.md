@@ -1,7 +1,7 @@
 # Kanban-Board-SuperScholar
-Made A REST API using Express.js and MongoDB
+Made A REST API using Express.js and MongoDB(local database is used)
 
-To run the file Extract the folder
+To run the file Extract the folder,
 In the console type command nodemon .\App.js
 Server will Run
 
